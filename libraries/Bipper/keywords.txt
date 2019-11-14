@@ -1,0 +1,7 @@
+MyStack KEYWORD1
+push KEYWORD2
+pop KEYWORD2
+isEmpty KEYWORD2
+isFull KEYWORD2
+size KEYWORD2
+clear KEYWORD2
